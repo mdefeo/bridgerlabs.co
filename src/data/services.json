@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Holistic Network Support",
+    "value": "holistic-network-support",
+    "content": "Small businesses often struggle to access affordable legal, human resources, and business consulting services. As your trusted partner, we've built a holistic network of nonprofits and service providers to ensure you get both what you want and what you need to succeed.",
+    "subsections": [
+      {
+        "title": "Strategic Partnerships & Referrals",
+        "content": "We connect you with carefully vetted legal, HR, and financial services providers who understand small business needs. Our network of trusted partners helps you access essential services at rates designed for small business budgets."
+      },
+      {
+        "title": "Discounted & Pro Bono Services",
+        "content": "Through our partnerships with nonprofit law firms, grant programs, and funding sources, we help you access vital services at reduced rates or no cost. Our goal is to make professional services accessible to every small business."
+      },
+      {
+        "title": "Resource Database",
+        "content": "Our curated database provides easy access to vendors, software solutions, funding options, and professional services. We personally vet each resource to ensure quality and value for small businesses."
+      },
+      {
+        "title": "Collaborative Opportunities",
+        "content": "We facilitate meaningful connections between small businesses and support organizations, creating opportunities for growth and mutual benefit. Our network includes mentorship programs, industry groups, and community organizations."
+      }
+    ]
+  },
+  {
+    "title": "Branding & Identity",
+    "value": "branding-identity",
+    "content": "Your brand is more than just a logo—it's the foundation of your business identity. We help you build a strong, cohesive brand that resonates with your audience and supports long-term success.",
+    "subsections": [
+      {
+        "title": "Logo & Visual Identity Design",
+        "list": [
+          "Custom logo creation aligned with your mission and target audience",
+          "Comprehensive brand identity packages including color palettes, typography, and iconography",
+          "Brand guidelines ensuring consistency across all marketing materials"
+        ]
+      },
+      {
+        "title": "Marketing Collateral Development",
+        "list": [
+          "Professional business cards, letterhead, brochures, and print materials",
+          "Digital assets including email signatures, social media templates, and presentation decks",
+          "Consistent brand elements across all customer touchpoints"
+        ]
+      },
+      {
+        "title": "Brand Messaging & Positioning",
+        "list": [
+          "Development of authentic brand voice, tone, and messaging frameworks",
+          "Crafting compelling mission statements, taglines, and brand narratives",
+          "Strategic positioning to differentiate your brand in the market"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Digital Presence & Online Strategy",
+    "value": "digital-presence",
+    "content": "In today's digital world, a strong online presence is essential. We help you build and optimize your digital footprint to reach and engage your target audience effectively.",
+    "subsections": [
+      {
+        "title": "Website Development",
+        "content": "We create custom-built, scalable websites that serve as the foundation of your digital presence. Each site is designed for optimal user experience and conversion optimization."
+      },
+      {
+        "title": "Social Media Management",
+        "content": "Our comprehensive social media services include:",
+        "list": [
+          "Platform setup and optimization across major networks",
+          "Consistent branding and messaging",
+          "Content creation and scheduling",
+          "Community engagement strategies",
+          "Performance tracking and analytics"
+        ]
+      },
+      {
+        "title": "SEO & Online Visibility",
+        "content": "We implement proven strategies to improve your search rankings and online visibility:",
+        "list": [
+          "Keyword research and optimization",
+          "Google My Business setup and optimization",
+          "Local SEO strategies",
+          "Content optimization for search engines"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Content Strategy & Marketing",
+    "value": "content-marketing",
+    "content": "Quality content drives engagement and converts prospects into customers. Our content services help you tell your story effectively across all channels.",
+    "subsections": [
+      {
+        "title": "Content Development",
+        "list": [
+          "Website copy that converts",
+          "Engaging blog posts and articles",
+          "Compelling landing pages",
+          "SEO-optimized content"
+        ]
+      },
+      {
+        "title": "Email Marketing",
+        "list": [
+          "Strategic campaign development",
+          "List segmentation and management",
+          "Custom email templates",
+          "Performance tracking and optimization"
+        ]
+      },
+      {
+        "title": "Video & Multimedia",
+        "list": [
+          "Promotional video planning",
+          "Storyboarding and script development",
+          "Production guidance",
+          "Integration with your marketing strategy"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Business Growth Support",
+    "value": "business-growth",
+    "content": "Growing a business requires more than just marketing. We provide comprehensive support to help you scale effectively and sustainably.",
+    "subsections": [
+      {
+        "title": "Strategic Planning",
+        "list": [
+          "Business growth strategy development",
+          "Market analysis and competitive positioning",
+          "Goal setting and milestone planning",
+          "Performance measurement and optimization"
+        ]
+      },
+      {
+        "title": "Training & Education",
+        "content": "We offer both live workshops and on-demand training in:",
+        "list": [
+          "Marketing and branding fundamentals",
+          "Social media management",
+          "Email marketing best practices",
+          "SEO basics",
+          "Content creation strategies"
+        ]
+      }
+    ]
+  }
+]
